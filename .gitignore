@@ -14,3 +14,9 @@
 !.vscode/launch.json
 !.vscode/tasks.json
 !.vscode/LoadALLanguage.ps1
+
+
+
+/BusinessCentral.LinterCop/dependencies/
+.devcontainer/ALLanguage/
+BusinessCentral.LinterCop/.vs/

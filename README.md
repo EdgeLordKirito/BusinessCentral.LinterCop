@@ -143,6 +143,9 @@ For an example and the default values see: [LinterCop.ruleset.json](./BusinessCe
 
 ## Codespace
 
+### Getting dependencies
+Run the ".devcontainer/ContainerPrep.ps1" script and copy the downloaded files into the dependencies directory in the C# project
+
 ### Starting the Codespace
 I recommend you use GitHub Codespaces for getting started, as the ContainerPrep script will take care about everything that needs to be set up.
 If you prefer to run it locally, just know that you will need to have dotnet installed. The Prep Script might need a few tweaks as well.
